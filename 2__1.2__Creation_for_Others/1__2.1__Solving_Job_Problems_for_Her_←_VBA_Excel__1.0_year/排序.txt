@@ -1,1 +1,0 @@
-=COUNTIF(M$1:M3,"<>")+1-COUNTIF(L$4:L4,"<>")
