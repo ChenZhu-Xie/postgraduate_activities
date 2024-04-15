@@ -1,10 +1,10 @@
 
-[![东北三省青博会·项目展览 - Gitee 仓库：星尘弹弹堂](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/东北三省青博会_项目展览.png)](https://gitee.com/ChenZhu-Xie/Stardust_DDTank "东北三省青博会·项目展览 - Gitee 仓库：星尘弹弹堂")
+[![课题组_春游](https://github.com/ChenZhu-Xie/postgraduate_activities/tree/master/img/课题组_春游.png)](https://www.youtube.com/watch?v=Hhg5m2Y7ZyM "课题组_春游")
 
 # 硕士 个人活动
 
 ## 关于
-* 该仓库 👉 [硕士 活动](https://gitee.com/ChenZhu-Xie/undergraduate_activities)
+* 该仓库 👉 [硕士 活动](https://gitee.com/ChenZhu-Xie/postgraduate_activities)
     <!-- * 包含竞赛 ⊃ 👉 [星尘[弹弹堂](https://www.ddtank.com)「全平台辅助」相关竞赛们](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/07__3.2__Self_Competitions) -->
     * 包含竞赛 ⊃ 👉 [星尘弹弹堂「全平台辅助」相关竞赛们](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/07__3.2__Self_Competitions)
         <!-- * 孵化工程 ⊶ 👉 [星尘[弹弹堂](https://www.ddtank.com)「全平台辅助」](https://gitee.com/ChenZhu-Xie/Stardust_DDTank) -->
@@ -27,11 +27,11 @@
 [![「The Calling」她与我.mp4](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/投影仪的妙用.png)](https://www.bilibili.com/BV1F54y1v7qg "「The Calling」她与我.mp4")
 
 ## 介绍
-* 大学本科时期 的 个人创造、竞赛；室友活动；校外实习、志愿活动
+* 硕士 研究生 时期 的 个人创造、艺术、工作流；室友活动、志愿活动
     * 「重要内容」以「文件」的形式，放在「一级目录」中
     * 「文件」的「详细信息」，以「文件夹」的形式，放在与「文件」有「相同序号」的「二级目录」中
-* 该仓库可以与仓库 👉 [本科 课程](https://gitee.com/ChenZhu-Xie/undergraduate_courses) 合并的同时，不产生「序号冲突」
-    * 二者「完整地描述」了「我的大学 本科生涯」
+* 该仓库可以与仓库 👉 [硕士 课程](https://gitee.com/ChenZhu-Xie/postgraduate_activities) 和 👉 [硕士 学术](https://gitee.com/ChenZhu-Xie/postgraduate_activities) 一起
+    * 三者「完整地描述」了「我的 硕士研究生 生涯」
 
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/ETP_&_NEU.png "3D logo: ETP & NEU") -->
 <!-- ![fig](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/ETP_&_NEU.png "3D logo: ETP & NEU") -->
@@ -44,7 +44,7 @@
     * 需要进入「Total_Grades」文件夹的「子文件夹」中查看 相关文件 -->
 
 ## 历史
-* 该仓库 👉 [本科 活动](https://gitee.com/ChenZhu-Xie/undergraduate_activities)
+* 该仓库 👉 [硕士 活动](https://gitee.com/ChenZhu-Xie/postgraduate_activities)
     * （个人时间）由 18 - 22 岁小谢
     * （世界时间）在 2016 - 2020 年的
     * （个人阶段）大学本科 创建的
