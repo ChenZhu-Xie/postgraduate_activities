@@ -1,32 +1,42 @@
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/index.png "『Home/Main entrance』page")
+[![Spring Outing with My Research Group.mp4](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_activities/master/img/课题组_春游.png)](https://www.youtube.com/watch?v=Hhg5m2Y7ZyM&feature=youtu.be "Spring Outing with My Research Group.mp4")
 
-* 中文「自述文档」㊥ 👉 [硕士_活动](https://gitee.com/ChenZhu-Xie/postgraduate_activities)
-
-# Static webpages (Crack password :point_right: log in Xanadu)
+# postgraduate Personal Activities
 
 ## About
-* This project 👉 [offline web_pages](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B) is a series of static personal webpages I created at the age of 16.
+* This repo 👉 [postgraduate activities](https://github.com/ChenZhu-Xie/postgraduate_activities)
+    * This repo can be merged with the repo 👉 [postgraduate courses](https://github.com/ChenZhu-Xie/postgraduate_courses)
+        * The 3 together「fully described」my college career「as a postgraduate」
+* 中文「自述文档」㊥ 👉 [硕士 活动](https://gitee.com/ChenZhu-Xie/postgraduate_activities)
+
+[![Zotero 条目信息📄→ Quicker → RoamEdit.mp4](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_activities/master/img/zotero_条目信息_到_RE_x264.png)](https://www.youtube.com/watch?v=dVefhyIGx3o "Zotero 条目信息📄→ Quicker → RoamEdit.mp4")
 
 ## Description
-* Computer course assignment during high school.
-* Old technology stack: **FrontPage**.
-    * Limited to the time and technology at that time, the effect may be unsatisfactory
-    * But in terms of ideas, there are bi-directional links, puzzle solving/decryption, modifying game files, space exploration, hand-picked background music, etc. All of this constitutes the exploration, shouting, and wandering of that personal period.
+* Personal creations and competitions during postgraduate studies; Roommate activities; Off campus internships and volunteer activities
+    * 「Important content」is placed as「files」in the「primary directory」
+    * The「detailed information」of「the file」is placed in the form of「a folder」in the「secondary directory」with「the same serial number」as「the file」
 
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/entrance.png "『Portal/Hidden entrance』page")
+[![Video for College Party Committee.mp4](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_activities/master/img/Video_Cover.png)](https://www.youtube.com/watch?v=QYr1QQYnC4A "Video for College Party Committee.mp4")
 
-## Inplementation
+<!-- ## Inplementation
 1. Enter homepage from "Homepage (My Mini Website Portal). lnk".  
 2. Explore freely :point_right: until you decrypt the password :point_right: and unlock the hidden webpages.
     * Solve the riddle! Or you'll be stuck here: in the middle of nowhere forever!
 3. PS: Due to its age (2014_05), page music may not be playable,  
-    * and the background image size cannot adapt to the browser window size.
+    * and the background image size cannot adapt to the browser window size. -->
 
 ## History
-* This project 👉 [offline personal web_pages](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B) was built
-    * (Personal time) by 16-year-old little Xie
-    * (Personal stage) during high school
-    * (World time) in 2014
+* This project 👉 [postgraduate activities](https://github.com/ChenZhu-Xie/postgraduate_activities) was built
+    * (Personal time) by 22~24-year-old little Xie
+    * (World time) during 2020 - 2022
+    * (Personal stage) when I was in college as a postgraduate
+
+<!-- TEST 666 -->
+
+[![解决小车的实际工作需求_←_VBA_Excel.xlsx](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_activities/master/img/车把车的车把.png)](https://github.com/ChenZhu-Xie/postgraduate_activities/blob/master/2__1.2__Creation_for_Others/1__2.1__Solving_Job_Problems_for_Her_%E2%86%90_VBA_Excel__1.0_year/2__4.1__%E8%BD%A6%E6%8A%8A%E8%BD%A6%E7%9A%84%E8%BD%A6%E6%8A%8A_%E2%86%90_VBA_Excel__2.0_year_-_2022.8.16.xlsx "解决小车的实际工作需求_←_VBA_Excel.xlsx")
+
+[![扶我起来，我还能写一个正则表达式...mp4](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_activities/master/img/扶我起来，我还能写一个正则表达式...png)](https://www.youtube.com/watch?v=xA3iqHTzwoA "扶我起来，我还能写一个正则表达式...mp4")
+
+<!-- test -->
 
 <!-- ## Software Architecture
 Software architecture description

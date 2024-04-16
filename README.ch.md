@@ -1,5 +1,5 @@
 
-[![课题组_春游](https://gitee.com/ChenZhu-Xie/postgraduate_activities/raw/master/img/课题组_春游.png)](https://www.youtube.com/watch?v=Hhg5m2Y7ZyM "课题组_春游")
+[![课题组 春游.mp4](https://gitee.com/ChenZhu-Xie/postgraduate_activities/raw/master/img/课题组_春游.png)](https://www.youtube.com/watch?v=Hhg5m2Y7ZyM "课题组 春游.mp4")
 
 # 硕士 个人活动
 
@@ -7,7 +7,7 @@
 * 该仓库 👉 [硕士 活动](https://gitee.com/ChenZhu-Xie/postgraduate_activities)
     * 与仓库 👉 [硕士 课程](https://gitee.com/ChenZhu-Xie/postgraduate_courses) 和 👉 [硕士 学术](https://gitee.com/ChenZhu-Xie/postgraduate_academia) 一起
         * 三者「完整地描述」了「我的 硕士研究生 生涯」
-* English「README」ⓔ 👉 [postgraduate_activities](https://github.com/ChenZhu-Xie/postgraduate_activities)
+* English「README」ⓔ 👉 [postgraduate activities](https://github.com/ChenZhu-Xie/postgraduate_activities)
 
 <!-- [![The Calling「She & Me」](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/投影仪的妙用.png)](https://youtu.be/utkSjlCVySE "「The Calling」She_&_Me") -->
 [![Zotero 条目信息📄→ Quicker → RoamEdit.mp4](https://gitee.com/ChenZhu-Xie/postgraduate_activities/raw/master/img/zotero_条目信息_到_RE_x264.png)](https://www.bilibili.com/video/BV13C411b74F "Zotero 条目信息📄→ Quicker → RoamEdit.mp4")
@@ -19,7 +19,7 @@
 
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/ETP_&_NEU.png "3D logo: ETP & NEU") -->
 <!-- ![fig](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/ETP_&_NEU.png "3D logo: ETP & NEU") -->
-[![为_学院党支部_制作_党日活动视频.mp4](https://gitee.com/ChenZhu-Xie/postgraduate_activities/raw/master/img/Video_Cover.png)](https://www.bilibili.com/video/BV1A54y1r7bQ "为_学院党支部_制作_党日活动视频.mp4")
+[![为 学院党支部 制作 党日活动视频.mp4](https://gitee.com/ChenZhu-Xie/postgraduate_activities/raw/master/img/Video_Cover.png)](https://www.bilibili.com/video/BV1A54y1r7bQ "为 学院党支部 制作 党日活动视频.mp4")
 
 <!-- ## 实施
 1. 演讲 ppt 含视频
