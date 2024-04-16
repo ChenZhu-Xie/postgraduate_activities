@@ -1,5 +1,5 @@
 
-[![课题组_春游](https://github.com/ChenZhu-Xie/postgraduate_activities/tree/master/img/课题组_春游.png)](https://www.youtube.com/watch?v=Hhg5m2Y7ZyM "课题组_春游")
+[![课题组_春游](https://gitee.com/ChenZhu-Xie/postgraduate_activities/tree/master/img/课题组_春游.png)](https://www.youtube.com/watch?v=Hhg5m2Y7ZyM "课题组_春游")
 
 # 硕士 个人活动
 
@@ -24,7 +24,9 @@
 * English「README」ⓔ 👉 [postgraduate_activities](https://github.com/ChenZhu-Xie/postgraduate_activities)
 
 <!-- [![The Calling「She & Me」](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/投影仪的妙用.png)](https://youtu.be/utkSjlCVySE "「The Calling」She_&_Me") -->
-[![「The Calling」她与我.mp4](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/投影仪的妙用.png)](https://www.bilibili.com/BV1F54y1v7qg "「The Calling」她与我.mp4")
+[![Zotero 条目信息📄→ Quicker → RoamEdit.mp4](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/zotero_条目信息_到_RE_x264.png)](https://www.bilibili.com/video/BV13C411b74F "Zotero 条目信息📄→ Quicker → RoamEdit.mp4")
+
+[![扶我起来，我还能写一个正则表达式...mp4](https://gitee.com/ChenZhu-Xie/postgraduate_activities/raw/master/img/扶我起来，我还能写一个正则表达式...png)](https://www.bilibili.com/video/BV1Fx4y1v7s5 "扶我起来，我还能写一个正则表达式...mp4")
 
 ## 介绍
 * 硕士 研究生 时期 的 个人创造、艺术、工作流；室友活动、志愿活动
@@ -35,7 +37,7 @@
 
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/ETP_&_NEU.png "3D logo: ETP & NEU") -->
 <!-- ![fig](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/ETP_&_NEU.png "3D logo: ETP & NEU") -->
-[![「5 号信封」内外双「无限翻」折纸](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/love.png)](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/09__4.2__Roommate_%E2%99%80_'s_Activities "「5 号信封」内外双「无限翻」折纸")
+[![为_学院党支部_制作_党日活动视频.mp4](https://gitee.com/ChenZhu-Xie/postgraduate_activities/raw/master/img/Video_Cover.png)](https://www.bilibili.com/video/BV1A54y1r7bQ "为_学院党支部_制作_党日活动视频.mp4")
 
 <!-- ## 实施
 1. 演讲 ppt 含视频
@@ -45,9 +47,11 @@
 
 ## 历史
 * 该仓库 👉 [硕士 活动](https://gitee.com/ChenZhu-Xie/postgraduate_activities)
-    * （个人时间）由 18 - 22 岁小谢
-    * （世界时间）在 2016 - 2020 年的
-    * （个人阶段）大学本科 创建的
+    * （个人时间）由 22 - 24 岁小谢
+    * （世界时间）在 2020 - 2022 年的
+    * （个人阶段）研究生 阶段 创建的
+
+[![解决小车的实际工作需求_←_VBA_Excel.xlsx](https://gitee.com/ChenZhu-Xie/postgraduate_activities/raw/master/img/车把车的车把.png)](https://gitee.com/ChenZhu-Xie/postgraduate_activities/blob/master/2__1.2__Creation_for_Others/1__2.1__Solving_Job_Problems_for_Her_%E2%86%90_VBA_Excel__1.0_year/2__4.1__%E8%BD%A6%E6%8A%8A%E8%BD%A6%E7%9A%84%E8%BD%A6%E6%8A%8A_%E2%86%90_VBA_Excel__2.0_year_-_2022.8.16.xlsx "解决小车的实际工作需求_←_VBA_Excel.xlsx")
 
 <!-- ## 软件架构
 软件架构说明
