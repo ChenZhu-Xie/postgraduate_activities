@@ -4,7 +4,7 @@
 
 ## About
 * This repo 👉 [postgraduate activities](https://github.com/ChenZhu-Xie/postgraduate_activities)
-    * This repo can be merged with the repo 👉 [postgraduate courses](https://github.com/ChenZhu-Xie/postgraduate_courses)
+    * This repo can be merged with the repo 👉 [postgraduate courses](https://github.com/ChenZhu-Xie/postgraduate_courses) and 👉 [postgraduate academia](https://github.com/ChenZhu-Xie/postgraduate_academia)
         * The 3 together「fully described」my college career「as a postgraduate」
 * 中文「自述文档」㊥ 👉 [硕士 活动](https://gitee.com/ChenZhu-Xie/postgraduate_activities)
 
