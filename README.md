@@ -34,7 +34,7 @@
 
 <!-- TEST 666 -->
 
-[![扶我起来，我还能写一个正则表达式...mp4](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_activities/master/img/扶我起来，我还能写一个正则表达式...png)](https://www.youtube.com/watch?v=xA3iqHTzwoA "扶我起来，我还能写一个正则表达式...mp4")
+[![Help me up, I can still write a regular expression...mp4](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_activities/master/img/扶我起来，我还能写一个正则表达式...png)](https://www.youtube.com/watch?v=xA3iqHTzwoA "Help me up, I can still write a regular expression...mp4")
 
 <!-- test -->
 
