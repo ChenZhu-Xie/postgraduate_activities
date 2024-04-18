@@ -11,7 +11,7 @@
 <!-- [![The Calling「She & Me」](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/投影仪的妙用.png)](https://youtu.be/utkSjlCVySE "「The Calling」She_&_Me") -->
 [![Zotero 条目信息📄→ Quicker → RoamEdit.mp4](https://gitee.com/ChenZhu-Xie/postgraduate_activities/raw/master/img/zotero_条目信息_到_RE_x264.png)](https://www.bilibili.com/video/BV13C411b74F "Zotero 条目信息📄→ Quicker → RoamEdit.mp4")
 
-[![解决小车的实际工作需求_←_VBA_Excel.xlsx](https://gitee.com/ChenZhu-Xie/postgraduate_activities/raw/master/img/车把车的车把.png)](https://gitee.com/ChenZhu-Xie/postgraduate_activities/blob/master/2__1.2__Creation_for_Others/1__2.1__Solving_Job_Problems_for_Her_%E2%86%90_VBA_Excel__1.0_year/2__4.1__%E8%BD%A6%E6%8A%8A%E8%BD%A6%E7%9A%84%E8%BD%A6%E6%8A%8A_%E2%86%90_VBA_Excel__2.0_year_-_2022.8.16.xlsx "解决小车的实际工作需求_←_VBA_Excel.xlsx")
+[![解决小车的实际工作需求 ← VBA Excel.xlsx](https://gitee.com/ChenZhu-Xie/postgraduate_activities/raw/master/img/车把车的车把.png)](https://gitee.com/ChenZhu-Xie/postgraduate_activities/blob/master/2__1.2__Creation_for_Others/1__2.1__Solving_Job_Problems_for_Her_%E2%86%90_VBA_Excel__1.0_year/2__4.1__%E8%BD%A6%E6%8A%8A%E8%BD%A6%E7%9A%84%E8%BD%A6%E6%8A%8A_%E2%86%90_VBA_Excel__2.0_year_-_2022.8.16.xlsx "解决小车的实际工作需求 ← VBA Excel.xlsx")
 
 ## 介绍
 * 硕士 研究生 时期 的 个人创造、艺术、工作流；还包括 室友活动、志愿服务 等
