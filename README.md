@@ -13,7 +13,7 @@
 [![解决小车的实际工作需求_←_VBA_Excel.xlsx](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_activities/master/img/车把车的车把.png)](https://github.com/ChenZhu-Xie/postgraduate_activities/blob/master/2__1.2__Creation_for_Others/1__2.1__Solving_Job_Problems_for_Her_%E2%86%90_VBA_Excel__1.0_year/2__4.1__%E8%BD%A6%E6%8A%8A%E8%BD%A6%E7%9A%84%E8%BD%A6%E6%8A%8A_%E2%86%90_VBA_Excel__2.0_year_-_2022.8.16.xlsx "解决小车的实际工作需求_←_VBA_Excel.xlsx")
 
 ## Description
-* Personal creations and competitions during postgraduate studies; Roommate activities; Off campus internships and volunteer activities
+* Personal creations, art, and workflow during postgraduate studies; This also includes roommate activities, volunteer services, etc.
     * 「Important content」is placed as「files」in the「primary directory」
     * The「detailed information」of「the file」is placed in the form of「a folder」in the「secondary directory」with「the same serial number」as「the file」
 
