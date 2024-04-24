@@ -1,6 +1,6 @@
 [![Spring Outing with My Research Group.mp4](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_activities/master/img/课题组_春游.png)](https://www.youtube.com/watch?v=Hhg5m2Y7ZyM&feature=youtu.be "Spring Outing with My Research Group.mp4")
 
-# postgraduate Personal Activities
+# Postgraduate Personal Activities
 
 ## About
 * This repo 👉 [postgraduate activities](https://github.com/ChenZhu-Xie/postgraduate_activities)
