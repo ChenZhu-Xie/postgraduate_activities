@@ -14,7 +14,7 @@
 [![解决小车的实际工作需求 ← VBA Excel.xlsx](https://gitee.com/ChenZhu-Xie/postgraduate_activities/raw/master/img/JB车的JB表.png)](https://gitee.com/ChenZhu-Xie/postgraduate_activities/blob/master/2__1.2__Creation_for_Others/1__2.1__Solving_Job_Problems_for_Her_%E2%86%90_VBA_Excel__1.0_year/1__2.1__JB%E8%BD%A6%E7%9A%84JB%E8%A1%A8_%E2%86%90_VBA_Excel__1.0_year_-_2021.7.6.xlsm "解决小车的实际工作需求 ← VBA Excel.xlsx")
 
 ## 介绍
-* 硕士 研究生 时期 的 个人创造、艺术、工作流；还包括 室友活动、志愿服务 等
+* 硕士 研究生时期 的 个人创造、艺术、工作流；还包括 室友活动、志愿服务 等
     * 「重要内容」以「文件」的形式，放在「一级目录」中
     * 「文件」的「详细信息」，以「文件夹」的形式，放在与「文件」有「相同序号」的「二级目录」中
 
