@@ -30,7 +30,7 @@
 * This project 👉 [postgraduate activities](https://github.com/ChenZhu-Xie/postgraduate_activities) was built
     * (Personal time) by 22~24-year-old little Xie
     * (World time) during 2020 - 2022
-    * (Personal stage) when I was a postgraduate
+    * (Personal stage) when I was a postgraduate (0.0~2.0)
 
 <!-- TEST 666 -->
 

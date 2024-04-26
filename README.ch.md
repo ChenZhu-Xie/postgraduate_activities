@@ -32,7 +32,7 @@
 * 该仓库 👉 [硕士 活动](https://gitee.com/ChenZhu-Xie/postgraduate_activities)
     * （个人时间）由 22 - 24 岁小谢
     * （世界时间）在 2020 - 2022 年的
-    * （个人阶段）硕士 研究生阶段 创建的
+    * （个人阶段）硕士 研究生阶段 创建的 (0.0~2.0)
 
 [![扶我起来，我还能写一个正则表达式...mp4](https://gitee.com/ChenZhu-Xie/postgraduate_activities/raw/master/img/扶我起来，我还能写一个正则表达式...png)](https://www.bilibili.com/video/BV1Fx4y1v7s5 "扶我起来，我还能写一个正则表达式...mp4")
 
