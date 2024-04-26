@@ -5,7 +5,7 @@
 ## About
 * This repo 👉 [postgraduate activities](https://github.com/ChenZhu-Xie/postgraduate_activities)
     * can be merged with the repo 👉 [postgraduate courses](https://github.com/ChenZhu-Xie/postgraduate_courses) and repo 👉 [postgraduate academia](https://github.com/ChenZhu-Xie/postgraduate_academia)
-        * The 3 repos together「fully described」my graduate career「as a postgraduate」
+        * The 3 repos together「fully described」my postgraduate career
 * 中文「自述文档」㊥ 👉 [硕士 活动](https://gitee.com/ChenZhu-Xie/postgraduate_activities)
 
 [![Zotero → Quicker → RoamEdit.mp4](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_activities/master/img/zotero_条目信息_到_RE_x264.png)](https://www.youtube.com/watch?v=dVefhyIGx3o "Zotero → Quicker → RoamEdit.mp4")
@@ -30,7 +30,7 @@
 * This project 👉 [postgraduate activities](https://github.com/ChenZhu-Xie/postgraduate_activities) was built
     * (Personal time) by 22~24-year-old little Xie
     * (World time) during 2020 - 2022
-    * (Personal stage) when I was in college as a postgraduate
+    * (Personal stage) when I was a postgraduate
 
 <!-- TEST 666 -->
 
